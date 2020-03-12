@@ -1,0 +1,18 @@
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\bin\Debug\Excel Okuma ve Listeleme.exe.config
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\bin\Debug\Excel Okuma ve Listeleme.exe
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\bin\Debug\Excel Okuma ve Listeleme.pdb
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\obj\Debug\Excel Okuma ve Listeleme.csprojResolveAssemblyReference.cache
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\obj\Debug\Excel_Okuma_ve_Listeleme.Form1.resources
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\obj\Debug\Excel_Okuma_ve_Listeleme.Properties.Resources.resources
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\obj\Debug\Excel Okuma ve Listeleme.csproj.GenerateResource.Cache
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\obj\Debug\Excel Okuma ve Listeleme.exe
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\obj\Debug\Excel Okuma ve Listeleme.pdb
+D:\VB6 - C# Projelerim\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\bin\Debug\Excel Okuma ve Listeleme.exe.config
+D:\VB6 - C# Projelerim\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\obj\Debug\Excel Okuma ve Listeleme.exe
+D:\VB6 - C# Projelerim\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\obj\Debug\Excel Okuma ve Listeleme.pdb
+D:\VB6 - C# Projelerim\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\bin\Debug\Excel Okuma ve Listeleme.exe
+D:\VB6 - C# Projelerim\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\bin\Debug\Excel Okuma ve Listeleme.pdb
+D:\VB6 - C# Projelerim\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\obj\Debug\Excel Okuma ve Listeleme.csprojResolveAssemblyReference.cache
+D:\VB6 - C# Projelerim\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\obj\Debug\Excel_Okuma_ve_Listeleme.Form1.resources
+D:\VB6 - C# Projelerim\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\obj\Debug\Excel_Okuma_ve_Listeleme.Properties.Resources.resources
+D:\VB6 - C# Projelerim\Excel Okuma ve Listeleme\Excel Okuma ve Listeleme\obj\Debug\Excel Okuma ve Listeleme.csproj.GenerateResource.Cache
